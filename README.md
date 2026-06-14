@@ -48,4 +48,4 @@ With the number of events that require Openplanet to be disabled to participate 
 <img width="337" height="232" alt="image" src="https://github.com/user-attachments/assets/577a1a4c-9fb6-48aa-95c4-b3456e9305f6" />
 
 
-[^1]: Openplanet tutorial on how to temporarily disable Openplanet by renaming **dinput8.dll** - https://openplanet.dev/docs/tutorials/noop
+[^1]: Tutorial on how to temporarily disable Openplanet by renaming **dinput8.dll** - https://openplanet.dev/docs/tutorials/noop
