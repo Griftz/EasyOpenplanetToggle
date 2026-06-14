@@ -22,7 +22,7 @@ With the number of events that require Openplanet to be disabled to participate 
 ## Main Window
 * Browse - Used to browse to your **Trackmania.exe** directory
 * Enable - Enables Openplanet
-* Disable - Disabled Openplanet
+* Disable - Disables Openplanet
 <img width="336" height="221" alt="image" src="https://github.com/user-attachments/assets/e4aebeae-dba1-458f-b427-0224aab43755" />
 
 <br/><br/>
