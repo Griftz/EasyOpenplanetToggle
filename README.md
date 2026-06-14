@@ -1,5 +1,5 @@
 ## What is this for?
-With the number of events that require Openplanet to be disabled to participate in, and a file rename being the easiest way to quickly disable it [^1] - Here is a PowerShell script to easily toggle the status with simple buttons for enable/disable.
+With the number of events that require Openplanet to be disabled to participate in, and a file rename being the easiest & supported method to quickly disable it [^1] - Here is a PowerShell script to easily toggle the status with simple buttons for enable/disable.
 <br/><br/>
 > [!IMPORTANT]
 >This is a **PowerShell** script, you will need to run the script with PowerShell.. not Notepad ;)<br/>
