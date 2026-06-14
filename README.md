@@ -1,21 +1,25 @@
-## What is this for?
+# What is this for?
 With the number of events that require Openplanet to be disabled to participate in, and a file rename being the easiest & supported method to quickly disable it [^1] - Here is a PowerShell script to easily toggle the status with simple buttons for enable/disable.
-<br/><br/>
+
 > [!IMPORTANT]
->This is a **PowerShell** script, you will need to run the script with PowerShell.. not Notepad ;)<br/>
+>This is a **PowerShell** script, you will need to run the script with PowerShell.. not Notepad ;)
+
+<br/><br/>
+# How to Install
+1. Download the latest release
+3. Run **EasyOpenplanetToggle.ps1**
 
 > [!TIP]
 > If you place the script in the **Trackmania.exe** directory, it won't prompt to browse to the **Trackmania.exe** directory and automatically proceed to run the script.
-
-<br/><br/>
-
-## Main Window
-> [!TIP]
 > The default Trackmania.exe directory is one of the below:
 > * **Ubisoft Connect:** C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\games\Trackmania
 > * **Epic Games:** C:\Program Files\Epic Games\Trackmania
 > * **Steam:** C:\Program Files (x86)\Steam\steamapps\common\Trackmania
 
+<br/><br/>
+
+# How it works
+## Main Window
 * Browse - Used to browse to your **Trackmania.exe** directory
 * Enable - Enables Openplanet
 * Disable - Disabled Openplanet
